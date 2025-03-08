@@ -1,0 +1,4 @@
+img {
+    width: 100px; /* 幅を200pxに設定 */
+    height: auto; /* 高さを自動調整 */
+}
